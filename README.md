@@ -19,7 +19,7 @@ Hello from Rostov!
 Tag check
 ```
 
-## Use module not correctly tagged
+## Use not correctly tagged modules
 ```bash
 # get not correctly tagged version
 $ go get github.com/alebedev87/gomodhello@0.0.4
